@@ -1,0 +1,9 @@
+{
+    "name":"Coffee App",
+    "short_name":"Coffee",
+    "start_url": "index.html",
+    "display":"standalone",
+    "background_color": "#fdfdfd",
+    "theme_color":"#db4938",
+    "orientation":"portrait-primary"
+}
